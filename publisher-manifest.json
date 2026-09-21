@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f2f6bd9b582e5656bbe46c75",
+  "owner": "ndafgcqa",
+  "repo": "page-7954a2807a7316c24054fa6c",
+  "title": "木瓜云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7954a2807a7316c24054fa6c",
+      "a": "木瓜云",
+      "b": "2027最新官网",
+      "entity": "木瓜云",
+      "brand": "木瓜云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7e835aa274274ff55621d097548bbbb2f7519b017cf9b521c987db7b13c204b8",
+      "content": {
+        "primary_entity": "木瓜云",
+        "keyword1": "木瓜云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别对应 100GB、300GB 与 1000GB 每月流量，并支持 3、5、20 台设备同时在线。旗舰版覆盖流媒体解锁与 IPLC 专线游戏加速，团队版面向多人协作与定制路由需求。按客户端文档导入订阅，即可在不同设备上使用木瓜云的网络加速服务。",
+          "AI_HERO_SUBTITLE": "三档套餐，适配多设备加速",
+          "AI_HERO_INTRO": "木瓜云是面向海外网络访问场景的加速服务，按月流量与设备数量划分成基础版、旗舰版和团队版。选择套餐时先确认常用设备数量与月流量需求，再根据是否需要流媒体解锁或游戏专线来决定档位。配置过程围绕客户端订阅导入展开，可按设备类型查找对应的操作文档。",
+          "AI_VISUAL_TITLE": "木瓜云套餐与客户端适配",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_FEATURES_TITLE": "按使用规模选套餐",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型三个维度对比，选择贴合日常使用习惯的档位。",
+          "AI_FEATURE_TITLE_1": "流量按需匹配",
+          "AI_FEATURE_TEXT_1": "轻度浏览选基础版 100GB，重度视频与下载可考虑旗舰版 300GB 或团队版 1000GB。",
+          "AI_FEATURE_TITLE_2": "设备数量对照",
+          "AI_FEATURE_TEXT_2": "单人手机加电脑选基础版 3 台，家庭或多人共享建议旗舰版 5 台或团队版 20 台。",
+          "AI_FEATURE_TITLE_3": "线路与订阅周期",
+          "AI_FEATURE_TEXT_3": "旗舰版提供流媒体解锁与 IPLC 专线优化，按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "常见客户端包括 Clash、Shadowrocket、v2rayN、Surge 与 Stash，按设备系统与文档导入订阅。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 流量与 3 台设备；旗舰版 ¥35/月含 300GB、5 台设备及专线优化；团队版 ¥85/月含 1000GB 与 20 台设备。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求选定套餐，再核对系统适配要求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据月流量与同时在线设备数，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看对应的订阅导入说明与版本要求。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "按客户端文档添加订阅地址，更新节点列表后即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，配置更顺",
+          "AI_CLOSING_TEXT": "先确认设备数量和月流量，再按客户端文档导入订阅，即可使用木瓜云加速服务。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，年付 ¥150；旗舰版每月 300GB、5 台设备，年付 ¥350；团队版每月 1000GB、20 台设备，年付 ¥850。可按日常流量和设备数量选择。",
+          "AI_FAQ_ANSWER_2": "基础版与旗舰版适合个人或小家庭，旗舰版含 IPLC 专线游戏加速；团队版面向多人协作，支持 20 台设备和定制路由，可按实际人数决定。",
+          "AI_FAQ_ANSWER_3": "月付按标价结算，年付更划算，例如旗舰版年付 ¥350。短期试用选月付，长期使用选年付可降低平均支出。",
+          "AI_FAQ_ANSWER_4": "按日常使用设备数选择，基础版 3 台、旗舰版 5 台、团队版 20 台。设备较多时可选更高档位，避免同时在线受限。",
+          "AI_FAQ_ANSWER_5": "先按设备系统下载对应客户端，再从客户端文档获取订阅配置方式，导入后即可连接使用，具体步骤以客户端说明为准。",
+          "AI_FAQ_QUESTION_1": "三档套餐的价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "个人和团队使用应该选哪档套餐？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_4": "设备数量限制如何影响套餐选择？",
+          "AI_FAQ_QUESTION_5": "如何在不同设备上配置订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xbkqnoc.cn",
+    "host": "xbkqnoc.cn"
+  },
+  "file_hashes": {
+    "index.html": "1552eb5643f424f232b52a154f5ad0bd8501a8320e5b791b771ae51522aa1c34",
+    "sitemap.xml": "168bfc2afbfdd31399a7642e094d805315bf0d6da2319d2770a5eeac83bd4627",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ef89f4c1c9df0660460ddc74644f5af6b0dc752688f1d4a3ca07c706b023961f",
+    "robots.txt": "45391dbcef5d8ede6241d7441e38b53340508d7c6a30bc8896c795c7a80a454a",
+    "175075ca815022ec4111be46380abdf1.txt": "3b7e3f7c642e54e029f6a6d5a8a7f4f2865c8e787fdb3f8efbb4752ae3f98c17"
+  },
+  "revision": "b3a0001b16a1e52d6036d7c4db40726716cbe7382f4c6a4ecbb7b3d82b25a469"
+}
